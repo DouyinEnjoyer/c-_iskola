@@ -1,0 +1,15 @@
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+H:\c#\c-_iskola\09.17\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

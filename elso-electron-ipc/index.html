@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'" />
+    <title>Első Electron-alkalmazás</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Üdvözlő alkalmazás</h1>
+    <label for="nameInput">Hogy hívnak?</label>
+    <input id="nameInput" type="text" />
+    <button id="greetButton">Köszönj!</button>
+    <p id="messageLabel"></p>
+    <button id="platformButton">Milyen rendszeren futok?</button>
+    <p id="platformLabel"></p>
+    <button id="openWindowButton">Új ablak</button>
+
+    <script src="renderer.js"></script>
+  </body>
+</html>

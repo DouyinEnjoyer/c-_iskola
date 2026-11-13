@@ -1,0 +1,14 @@
+H:\DungeonPain\DungeonPain\DungeonPain\bin\Debug\net8.0\DungeonPain.exe
+H:\DungeonPain\DungeonPain\DungeonPain\bin\Debug\net8.0\DungeonPain.deps.json
+H:\DungeonPain\DungeonPain\DungeonPain\bin\Debug\net8.0\DungeonPain.runtimeconfig.json
+H:\DungeonPain\DungeonPain\DungeonPain\bin\Debug\net8.0\DungeonPain.dll
+H:\DungeonPain\DungeonPain\DungeonPain\bin\Debug\net8.0\DungeonPain.pdb
+H:\DungeonPain\DungeonPain\DungeonPain\obj\Debug\net8.0\DungeonPain.GeneratedMSBuildEditorConfig.editorconfig
+H:\DungeonPain\DungeonPain\DungeonPain\obj\Debug\net8.0\DungeonPain.AssemblyInfoInputs.cache
+H:\DungeonPain\DungeonPain\DungeonPain\obj\Debug\net8.0\DungeonPain.AssemblyInfo.cs
+H:\DungeonPain\DungeonPain\DungeonPain\obj\Debug\net8.0\DungeonPain.csproj.CoreCompileInputs.cache
+H:\DungeonPain\DungeonPain\DungeonPain\obj\Debug\net8.0\DungeonPain.dll
+H:\DungeonPain\DungeonPain\DungeonPain\obj\Debug\net8.0\refint\DungeonPain.dll
+H:\DungeonPain\DungeonPain\DungeonPain\obj\Debug\net8.0\DungeonPain.pdb
+H:\DungeonPain\DungeonPain\DungeonPain\obj\Debug\net8.0\DungeonPain.genruntimeconfig.cache
+H:\DungeonPain\DungeonPain\DungeonPain\obj\Debug\net8.0\ref\DungeonPain.dll

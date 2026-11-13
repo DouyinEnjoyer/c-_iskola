@@ -1,0 +1,10 @@
+OK 1
+OK 2
+OK
+2 11:00-12:00
+HIBA nincs_ilyen
+HIBA nincs_ilyen
+HIBA formatum
+OK 3
+3 09:00-10:00
+2 11:00-12:00

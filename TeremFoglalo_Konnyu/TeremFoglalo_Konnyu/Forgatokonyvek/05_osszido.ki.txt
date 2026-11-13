@@ -1,0 +1,11 @@
+0:00
+OK 1
+OK 2
+2:15
+HIBA utkozes
+OK 3
+OK 4
+6:15
+0:00
+0:00
+HIBA formatum

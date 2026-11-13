@@ -1,0 +1,14 @@
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\bin\Debug\net8.0\TeremFoglalo.exe
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\bin\Debug\net8.0\TeremFoglalo.deps.json
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\bin\Debug\net8.0\TeremFoglalo.runtimeconfig.json
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\bin\Debug\net8.0\TeremFoglalo.dll
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\bin\Debug\net8.0\TeremFoglalo.pdb
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\obj\Debug\net8.0\TeremFoglalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\obj\Debug\net8.0\TeremFoglalo.AssemblyInfoInputs.cache
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\obj\Debug\net8.0\TeremFoglalo.AssemblyInfo.cs
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\obj\Debug\net8.0\TeremFoglalo.csproj.CoreCompileInputs.cache
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\obj\Debug\net8.0\TeremFoglalo.dll
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\obj\Debug\net8.0\refint\TeremFoglalo.dll
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\obj\Debug\net8.0\TeremFoglalo.pdb
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\obj\Debug\net8.0\TeremFoglalo.genruntimeconfig.cache
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\TeremFoglalo\obj\Debug\net8.0\ref\TeremFoglalo.dll

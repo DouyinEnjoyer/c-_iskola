@@ -1,0 +1,17 @@
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\bin\Debug\net8.0\TeremFoglalo.deps.json
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\bin\Debug\net8.0\TeremFoglalo.runtimeconfig.json
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\bin\Debug\net8.0\TeremFoglalo.exe
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\bin\Debug\net8.0\Ellenorzo.exe
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\bin\Debug\net8.0\Ellenorzo.deps.json
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\bin\Debug\net8.0\Ellenorzo.runtimeconfig.json
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\bin\Debug\net8.0\Ellenorzo.dll
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\bin\Debug\net8.0\Ellenorzo.pdb
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\obj\Debug\net8.0\Ellenorzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\obj\Debug\net8.0\Ellenorzo.AssemblyInfoInputs.cache
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\obj\Debug\net8.0\Ellenorzo.AssemblyInfo.cs
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\obj\Debug\net8.0\Ellenorzo.csproj.CoreCompileInputs.cache
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\obj\Debug\net8.0\Ellenorzo.dll
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\obj\Debug\net8.0\refint\Ellenorzo.dll
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\obj\Debug\net8.0\Ellenorzo.pdb
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\obj\Debug\net8.0\Ellenorzo.genruntimeconfig.cache
+C:\Users\dobrossy.levente\downloads\TeremFoglalo_Konnyu\TeremFoglalo_Konnyu\Ellenorzo\obj\Debug\net8.0\ref\Ellenorzo.dll

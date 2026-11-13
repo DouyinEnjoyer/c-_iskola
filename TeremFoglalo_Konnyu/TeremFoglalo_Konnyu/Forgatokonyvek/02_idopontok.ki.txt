@@ -1,0 +1,13 @@
+HIBA idointervallum
+HIBA idointervallum
+HIBA hetvege
+HIBA hetvege
+HIBA nyitvatartas
+HIBA nyitvatartas
+HIBA tul_hosszu
+OK 1
+OK 2
+HIBA idointervallum
+HIBA hetvege
+HIBA nyitvatartas
+HIBA tul_hosszu
